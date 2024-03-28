@@ -1,0 +1,73 @@
+{
+  "profesores": [
+    {
+      "nombre": "Micael",
+      "apellido": "Labria",
+      "materias": [
+        {
+          "nombre": "Matematica para Juegos"
+        },
+        {
+          "nombre": "Videojuegos desde cero"
+        },
+        {
+          "nombre": "Historia de los poligonos"
+        }
+      ],
+      "id": "e509"
+    },
+    {
+      "id": "2d77",
+      "nombre": "David",
+      "apellido": "Sticotti",
+      "materias": [
+        {
+          "nombre": "Robotica 1"
+        },
+        {
+          "nombre": "Legos, Mundo y yo"
+        }
+      ]
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Laureano",
+      "apellido": "Oronao",
+      "promedio": 7.5,
+      "id": "c99c"
+    },
+    {
+      "nombre": "Mateo",
+      "apellido": "Pozzobon",
+      "promedio": 8.5,
+      "id": "8b09"
+    },
+    {
+      "id": "cb95",
+      "nombre": "Franceso",
+      "apellido": "Bianchi",
+      "promedio": 10
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "Matematica para Juegos",
+      "duracion": 8,
+      "dificultad": "alta",
+      "id": "26d6"
+    },
+    {
+      "nombre": "Videojuegos desde Cero",
+      "duracion": 15,
+      "dificultad": "media",
+      "id": "0286"
+    },
+    {
+      "nombre": "Historia de los poligonos",
+      "duracion": 3,
+      "dificultad": "media",
+      "id": "9e64"
+    }
+  ]
+}
